@@ -33,4 +33,8 @@ Caso você ainda não tenha se cadastrado, basta **clicar em SIGN IN** para se c
    :align: center
    :width: 550
 
-Agora insira seu e-mail, senha e siga as instruções para verificação de abertura de conta, caso necessário.
+Para se cadastrar, basta você fornecer um e-mail e uma senha ou se cadastrar com sua conta do Google, ou da Microsoft ou da Apple. Agora é só seguir as instruções para verificação de abertura de conta, caso necessário.
+
+.. image:: chatgpt_sign_up_02.jpg
+   :align: center
+   :width: 550
