@@ -17,13 +17,13 @@ Vá para o campo de texto:
 
 .. image:: campo_de_texto_discord.jpg
    :align: center
-   :width: 450
+   :width: 550
 
 E escreva ``/imagine prompt:`` no campo de texto.
 
 .. image:: campo_de_texto_discord_imagine_prompt.jpg
    :align: center
-   :width: 450
+   :width: 550
 
 Agora escreva o seu prompt descrevendo a imagem que você gostaria que fosse gerada.
 Assim que você enviar o prompt, o bot do Midjourney irá interpretar o prompt e começará a gerar a imagem.
@@ -32,17 +32,17 @@ Inserindo o prompt para gerar a imagem desejada.
 
 .. image:: primeiro_prompt.jpg
    :align: center
-   :width: 450
+   :width: 550
 
 
 Aguardando o bot gerar a imagem desejada.
 
 .. image:: bot_gerando_a_imagem.jpg
    :align: center
-   :width: 450
+   :width: 550
 
 Imagem gerada como resultado final.
 
 .. image:: primeira_imagem_no_midjourney.jpg
    :align: center
-   :width: 450
+   :width: 550
