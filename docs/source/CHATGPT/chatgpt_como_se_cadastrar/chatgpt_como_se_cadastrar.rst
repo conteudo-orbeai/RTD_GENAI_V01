@@ -21,8 +21,16 @@ Clique em **Try ChatGPT**.
    :align: center
    :width: 550
 
-Caso você já tenha se cadastrado, basta clicar em LOGIN e colocar seu e-mail e senha de cadastro.
+Caso você já tenha se cadastrado, basta **clicar em LOGIN** e colocar seu e-mail e senha de cadastro.
 
-Caso você ainda não tenha se cadastrado, basta clicar em SIGN IN.
+.. image:: chagpt_login.jpg
+   :align: center
+   :width: 550
+
+Caso você ainda não tenha se cadastrado, basta **clicar em SIGN IN**.
+
+.. image:: chagpt_sign_up.jpg
+   :align: center
+   :width: 550
 
 Agora insira seu e-mail, senha e siga as instruções para verificação de abertura de conta, caso necessário.
