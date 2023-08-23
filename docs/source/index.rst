@@ -24,3 +24,4 @@ Conteúdos
 
    usage
    api
+   ChatGPT
