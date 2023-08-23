@@ -1,3 +1,3 @@
 ****************************
-Como se cadastras no ChatGPT
+Como se cadastrar no ChatGPT
 ****************************
