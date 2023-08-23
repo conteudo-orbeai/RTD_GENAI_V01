@@ -10,7 +10,7 @@ Comandos são usados para criar imagens, mudar configurações padrões, monitor
 
 O comando ``/imagine`` gera uma única imagem a partir de um prompt, que é um pequeno texto descritivo com o comando do que queremos que o Midjpourney gere de imagem.
 
-02.a.Como usar o comando ``/imagine``
+01.a.Como usar o comando ``/imagine``
 -------------------------------------
 
 Vá para o campo de texto:
