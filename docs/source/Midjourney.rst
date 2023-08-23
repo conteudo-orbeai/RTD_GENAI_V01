@@ -3,6 +3,9 @@ Midjourney
 
 .. _criar uma conta:
 
+O que é Midjourney
+------------------
+
 Criar uma conta
 ---------------
 
