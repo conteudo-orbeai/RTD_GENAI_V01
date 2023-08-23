@@ -31,3 +31,13 @@ For example:
 >>> import lumache
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
+
+O que é um prompt
+-----------------
+
+Engenharia de prompt
+--------------------
+
+
+Engenharia de pr
+--------------------
