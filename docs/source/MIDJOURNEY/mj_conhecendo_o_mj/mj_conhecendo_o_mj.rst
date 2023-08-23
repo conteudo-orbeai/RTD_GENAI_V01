@@ -34,6 +34,8 @@ Inserindo o prompt para gerar a imagem desejada.
    :align: center
    :width: 550
 
+**Observação:** repare que os prompts enviados, assim como as respectivas imagens geradas, ficam destacadas na cor laranja. Isso nos ajuda a 
+diferenciar as nossas imagens das imagens de outros usuários do Midjourney dentro do Discord.
 
 Aguardando o bot gerar a imagem desejada.
 
