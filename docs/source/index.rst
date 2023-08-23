@@ -25,3 +25,4 @@ Conteúdos
    usage
    api
    ChatGPT
+   Midjourney
