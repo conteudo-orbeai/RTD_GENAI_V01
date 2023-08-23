@@ -24,7 +24,7 @@ O suco de laranjá é o **que** você pede (é o prompt). Sem açucar e com gelo
    :align: center
    :width: 450
 
-.. image:: engenharia_prompt_imagem_gerada.jpg
+.. image:: engenharia_prompt_imagem_gerada_v02.jpg
    :align: center
    :width: 450
 
