@@ -31,7 +31,10 @@ Conteúdos
    :caption: Midjourney
    :maxdepth: 1
    
-   MIDJOURNEY/midjourney_o_que_e_midjourney/midjourney_o_que_e_midjourney.rst
-   MIDJOURNEY/midjourney_como_se_cadastrar/midjourney_como_se_cadastrar.rst
-
+   MIDJOURNEY/mj_o_que_e_mj/mj_o_que_e_mj.rst
+   MIDJOURNEY/mj_como_se_cadastrar/mj_como_se_cadastrar.rst
+   MIDJOURNEY/mj_conhecendo_o_mj/mj_conhecendo_o_mj.rst
+   MIDJOURNEY/mj_engenharia_de_prompt/mj_engenharia_de_prompt.rst
+   MIDJOURNEY/mj_parametros/mj_parametros.rst
+   MIDJOURNEY/mj_parametros_avancados/mj_parametros_avancados.rst
 
