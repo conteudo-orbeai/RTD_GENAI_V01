@@ -35,5 +35,3 @@ Gerar mais de 25 imagens somente com algum plano pago.
    :align: center
    :width: 650
 
-1.1 - Subseção do documento
------------------------------
