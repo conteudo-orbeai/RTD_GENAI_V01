@@ -48,3 +48,7 @@ Imagem gerada como resultado final.
 .. image:: primeira_imagem_no_midjourney.jpg
    :align: center
    :width: 550
+
+02.Sobre as imagens geradas.
+============================
+
