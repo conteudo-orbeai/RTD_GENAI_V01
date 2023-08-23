@@ -8,7 +8,7 @@ Como se cadastrar no ChatGPT
 O primeiro passo para se cadastrar é acessar o site do ChatGPT_ 
 .. _ChatGPT: https://openai.com/blog/chatgpt
 
-.. image:: chagpt_site.jpg
+.. image:: chagpt_site_V02.jpg
    :align: center
    :width: 550
 
