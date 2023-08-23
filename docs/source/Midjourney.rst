@@ -42,5 +42,7 @@ Engenharia de prompt
 --------------------
 
 
-Engenharia de pr
---------------------
+Exemplos de prompt
+------------------
+
+`Site para eu usar de referência aqui nos exemplos <https://prompts.aituts.com/>`_
