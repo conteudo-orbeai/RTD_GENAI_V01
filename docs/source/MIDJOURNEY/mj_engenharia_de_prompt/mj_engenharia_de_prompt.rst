@@ -24,6 +24,11 @@ O suco de laranjá é o **que** você pede (é o prompt). Sem açucar e com gelo
    :align: center
    :width: 450
 
+Significado dos parâmetros:
+ - ``--ar 2:3``: aspect ratio (proporção da imagem) - neste caso, a largura tem 2 unidades de tamanho e a altura 3. Por isso ``2:3``.
+
+ - ``--no``: é um prompt negativo, ou seja, é o que eu **não** quero que apareça na imagem. No caso uma casa.
+
 .. image:: engenharia_prompt_imagem_gerada.jpg
    :align: center
    :width: 450
