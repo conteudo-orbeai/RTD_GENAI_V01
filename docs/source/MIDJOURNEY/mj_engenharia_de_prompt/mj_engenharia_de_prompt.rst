@@ -20,7 +20,7 @@ O suco de laranjá é o **que** você pede (é o prompt). Sem açucar e com gelo
 
 - Exemplo:
 
-.. image:: engenharia_de_prompt_prompt.jpg
+.. image:: engenharia_de_prompt_prompt_V02.jpg
    :align: center
    :width: 450
 
