@@ -5,6 +5,15 @@ Como se cadastrar no Midjourney
 01. Cadastrar no Discord
 ========================
 
+Usamos o Discord para poder usar o Midjourney. Portanto, é necessário criar uma conta no Discord para poder se cadastrar no Midjurney.
+
+01.a.Criando uma conta no Discord
+---------------------------------
+
+Para saber como criar uma conta no Discord, acesse este link_
+.. _link: https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started
+
+
 02. Cadastrar no Midjourney
 ===========================
 
@@ -35,3 +44,13 @@ Gerar mais de 25 imagens somente com algum plano pago.
    :align: center
    :width: 650
 
+04. Vá para um dos canais #General ou #Newbie
+=============================================
+
+Depois de entrar no canal do Midjourney no Discord, você verá vários canais listados na aba lateral.
+
+04.a.Dentro do servidor do Midjourney
+-------------------------------------
+
+Localize e selecione qualquer canal rotulado "general-#"ou "newbie-#". Estes canais são projetados para iniciantes começarem
+a usar o bot do Midjourney para criar imagens.
