@@ -32,7 +32,7 @@ Existem várias formas de engenharia de prompt. Aqui vamos usar uma forma que de
 - O **papel** (ou **função**) que o ChatGPT usa para se comportar de uma determinada maneira.
    - Exemplo -  Atue como um: CEO, gerente de marketing, chef de cozinha, etc.
 - A **tarefa** a ser executada pelo ChatGPT.
-   - Exemplo -  Faça: um resumo, uma tradução, responda tais perguntas, etc. 
+   - Exemplo -  Faça: um resumo, uma tradução, responda tais perguntas, etc.
 - O **tom** de voz usada para transmitir uma emoção.
    - Exemplo - um tom: alegre, calmo, amigável, ousado, respeitoso, etc.
 - A **Linguagem (ou vocabulário)** usado no texto gerado.
