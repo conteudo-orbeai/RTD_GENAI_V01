@@ -1,7 +1,7 @@
 Bem-vindo(a) ao E-book Inteligência Artificial Generativa na prática!
 ======================================================================
 
-.. image:: imagem/logo_orbeai.png
+.. image:: IMAGENS_E_BOOK/LOGO_ORBEAI.jpg
    :align: center
    :width: 600
 ___________________________________________
