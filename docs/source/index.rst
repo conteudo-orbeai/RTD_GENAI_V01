@@ -26,3 +26,4 @@ Conteúdos
    api
    ChatGPT
    Midjourney
+   Zapier
