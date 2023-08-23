@@ -1,20 +1,24 @@
-Welcome to Lumache's documentation!
-===================================
+Bem-vindo(a) ao E-book Inteligência Artificial Generativa na prática!
+======================================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Este e-book serve como um livro para usarmos sempre que esquecermos algum conceito ou comando assim como também funciona como um caderno de exercícios para podermos praticar toda a teoria aprendida.
+
+Lorem Ipsum `Texto para embedar o link <link do site>`_
+
+Regras:
+- Texto itálico: *texto itálico*
+*simple* and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Este projeto está sob constantantes atualizações.
+This project is under active development.
 
-Contents
---------
+Conteúdos
+---------
 
 .. toctree::
 
