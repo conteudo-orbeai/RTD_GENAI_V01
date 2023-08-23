@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'IA Generativa na Prática'
+copyright = '2023, Orbe.ai'
+author = 'Orbe.ai'
 
 release = '0.1'
 version = '0.1.0'
