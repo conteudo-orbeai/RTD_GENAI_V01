@@ -21,6 +21,9 @@ Clique em **Try ChatGPT**.
    :align: center
    :width: 550
 
+01.b.Logar ou se cadastrar no ChatGPT
+-------------------------------------
+
 Caso você já tenha se cadastrado, basta **clicar em LOGIN** e colocar seu e-mail e senha de cadastro.
 
 .. image:: chatgpt_login.jpg
