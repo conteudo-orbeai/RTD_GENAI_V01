@@ -35,7 +35,3 @@ Significado dos parâmetros:
 
 
 
-
-
-01.a.Descrição sobre Pandas
-------
