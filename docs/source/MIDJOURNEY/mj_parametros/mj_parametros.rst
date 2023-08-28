@@ -41,5 +41,30 @@ A imagem poderia ser 1500px x 1500px (1'500 pixels de largura e 1'500 pixels de 
 ``--ar 1:1`` Proporção para feed no Instagram.
 
 
+No (o que não queremos na imagem gerada)
+----------------------------------------
+
+O parâmetro **--no** indica o que não queremos incluir na imagem que será gerada.
+Este parâmetro aceita muitas palavra separadas por vírgulas: ``--no item01, item02, item03, item04``
+
+Comparação de com e sem o parâmetro ``--no``.
+
+.. image:: sem_parametro_no.jpg
+   :align: center
+   :width: 450
+
+uma série de objetos aparecem na natureza morta.
+
+
+.. image:: com_parametro_no.jpg
+   :align: center
+   :width: 450
+
+A natureza morta com menos frutas.
+
+
+
+
+
 
 
