@@ -6,7 +6,7 @@ Parâmetros são opções e que mudaram como a imagem será gerada.
 
 Parâmetros são sempre adicionados ao final de um prompt. É possível que cada prompt tenha vários parâmetros.
 
-.. image:: o que e um parametro.jpg
+.. image:: o_que_e_um_parametro.jpg
    :align: center
    :width: 450
 
@@ -23,7 +23,7 @@ Altera a proporção entre largura e altura da imagem.
 Uma imagem quadrada tem a largura igual a altura, então descreve uma proporção de 1:1.
 A imagem poderia ser 1500px x 1500px (1'500 pixels de largura e 1'500 pixels de altura) ou 1'000px x 1'000px que a proporção continuará 1:1.
 
-.. image:: parametro aspect ratio 01.jpg
+.. image:: parametro_aspect_ratio_01.jpg
    :align: center
    :width: 450
 
