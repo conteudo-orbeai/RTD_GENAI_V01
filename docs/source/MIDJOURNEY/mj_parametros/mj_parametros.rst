@@ -31,8 +31,14 @@ A imagem poderia ser 1500px x 1500px (1'500 pixels de largura e 1'500 pixels de 
 .. topic:: Proporções mais comuns
 
 ``--ar 1:1`` Proporção padrão do Midjourney.
+
 ``--ar 3:2`` Proporçãom comum para imprimir fotografias.
+
 ``--ar 7:2`` Proporção comum para telas de TV e smartphones.
+
+``--ar 2:3`` Proporção para story no Instagram.
+
+``--ar 1:1`` Proporção para feed no Instagram.
 
 
 
